@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="co.com.proyectobase.screenplay_-_copia" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="co.com.proyectobase.screenplay" target="1.8" />
+      <module name="co.com.proyectobase.screenplay.main" target="1.8" />
+      <module name="co.com.proyectobase.screenplay.test" target="1.8" />
+      <module name="co.com.proyectobase.screenplay_-_copia" target="1.8" />
+      <module name="co.com.proyectobase.screenplay_-_copia.main" target="1.8" />
+      <module name="co.com.proyectobase.screenplay_-_copia.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
